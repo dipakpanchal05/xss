@@ -21,6 +21,9 @@
 'or<img src=0 onerror=alert('1')>
 <svg><style> <script>alert(1)</script> </style></svg>
 <math><style> <img src onerror=alert(2)> </style></math>
+<script>window.location.assign('C:/Windows/System32/cmd.exe')</script>
+<script>window.location.assign('C://Windows//System32//cmd.exe')</script>
+<script>window.location.assign('C:\Windows\System32\cmd.exe')</script>
 <script>window.location.assign('https://secure.eicar.org/eicar_com.zip')</script>
 <body style="background-color:red">
 <body style="background-color:red !important;">
