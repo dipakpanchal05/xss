@@ -25,6 +25,5 @@
 <script>window.location.assign('C://Windows//System32//cmd.exe')</script>
 <script>window.location.assign('C:\Windows\System32\cmd.exe')</script>
 <script>window.location.assign('https://secure.eicar.org/eicar_com.zip')</script>
-<body style="background-color:red">
-<body style="background-color:red !important;">
+<img src="file:///C:/Windows/System32/cmd.exe">
 <body onload=window.location.assign('https://www.google.com')>
