@@ -20,5 +20,5 @@
 'or<script>alert(1)</script>
 'or<img src=0 onerror=alert('1')>
 <svg><style> <script>alert(1)</script> </style></svg>
-<script>window.location.assign('https://microsoft.com')</script>
-<body onload=window.location.assign('https://bing.com')>
+<script>window.location.assign('https://google.com')</script>
+<body onload=window.location.assign('https://youtube.com')>
